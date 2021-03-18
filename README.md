@@ -1,6 +1,8 @@
 # SimpleShooter
 This is a project that I created following the GameDevTV Udemy Course using free art assets.
 
+These are just the Source Files, the rest was too big for Github.
+
 Upon finishing it, I decided to add a few more features to make it a more complete experience.
 
 Things I added:
